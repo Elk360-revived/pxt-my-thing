@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="function_definition" id="41B9?sM2-XB-g`b1%8RA" x="290" y="250"><mutation name="Pin thingy" functionid=".s?5_2?v2jQ!PVx|_*_c"></mutation><field name="function_name">Pin thingy</field><statement name="STACK"><block type="controls_repeat_ext" id="XQBg{HNDPk)1VROGETiC"><value name="TIMES"><shadow type="math_whole_number" id="N,u+{dz++#?(7iiMqmu7"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_set_digital_pin" id="9Vg(.[n9E~$^L8SSS;oC"><field name="name">pins.A0</field><value name="value"><shadow type="toggleHighLow" id="F,t33,`M!|3IAz(9gtF)"><field name="high">true</field></shadow></value><next><block type="device_set_digital_pin" id=":q#OY`h$Z[QgctUUojG}"><field name="name">pins.D3</field><value name="value"><shadow type="toggleHighLow" id="SGe2dF[Jc)d@@cZa,5oT"><field name="high">true</field></shadow></value></block></next></block></statement></block></statement></block></xml>
