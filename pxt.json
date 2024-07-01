@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "feather": "*"
+        "feather": "*",
+        "edge-connector": "*",
+        "radio": "*"
     },
     "files": [
         "README.md",
